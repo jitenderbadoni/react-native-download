@@ -1,4 +1,4 @@
-# react-native-simple-download-manager
+# react-native-download
 
 A simple straightforward react native module that lets you schedule downloads onto your download manager for android.
 
